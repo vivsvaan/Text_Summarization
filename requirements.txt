@@ -1,0 +1,6 @@
+gensim==3.3.0
+wget==3.2
+nltk==3.2.5
+nltk.download('punkt')
+tensorflow==1.14
+python==3.6
